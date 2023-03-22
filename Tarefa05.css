@@ -27,11 +27,11 @@
 }
 
 .fundo-azul {
-    text-indent: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     color: white;
     background-color: #3262FF;
     line-height: 35px;
-    border-left-style: solid;
     width: 28cm;
 }
 
