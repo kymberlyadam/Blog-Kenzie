@@ -1,0 +1,68 @@
+h1 {
+    font-size: 50px;
+    color: rgba(9, 49, 210, 0.979);
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+header{
+    width: 800px;
+}
+
+.título-bonitão {
+font-size: 42px;
+color: cadetblue;
+}
+.título-bonitinho {
+color: palevioletred;
+}
+
+.rosinha {
+font-size: 22px;
+color: blueviolet;
+
+}
+.títulos {
+    font-size: 25px; color: rgb(12, 47, 187);
+}
+
+.subtitulo {
+    font-size: 20px; color: rgb(39, 46, 73);
+}
+
+
+.autor {
+    font-size: 15px; color:black;
+}
+
+.links {
+    color:rgb(24, 9, 183) ;
+}
+p {
+    color: black;
+}
+
+body {
+    background-color: rgb(241, 237, 229);
+    width: 650px;
+}
+input[type] {
+    background-color: rgb(242, 250, 167);
+}
+
+.box {
+    height: 200px; width: 200px;
+    background-color: aquamarine;
+}
+.teste1 {
+    font-size: 42px;
+    font-weight: 500;
+    color: black;
+    background-color: rgb(222, 107, 197);
+    font-family: 'Inter', sans-serif;
+}
+
+.textoteste {
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 25px;
+    font-family: 'Inter', sans-serif;
+}

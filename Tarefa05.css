@@ -1,0 +1,52 @@
+*{
+    font-family: Montserrat, sans-serif;
+}
+ 
+.nome{
+    text-align: center;
+    row-gap: 50px;
+    color:black;
+    font-size: 30px;
+    font-weight: 200px;
+}
+
+.subtitulo {
+    font-size: 30px;
+    font-weight: 100px;
+    color: black;
+}
+
+.body {
+    font-size: 15px;
+    color:#2d2d2d
+}
+
+.fonte-azul {
+    color: #3262FF;
+
+}
+
+.fundo-azul {
+    text-indent: 10px;
+    color: white;
+    background-color: #3262FF;
+    line-height: 35px;
+    border-left-style: solid;
+    width: 28cm;
+}
+
+.fundo-preto {
+    text-align: center;
+    color: white;
+    background-color: black;
+    line-height: 50px;
+    width: 30cm;
+}
+
+h2 {color:black;
+    font-size: 35px;
+
+}
+h3 {
+    color:#2d2d2d;
+}
